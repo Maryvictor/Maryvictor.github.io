@@ -1,0 +1,7 @@
+- name: JavaScript
+  percentage: 15
+  color: info
+
+- name: Adobe Illustrator
+  percentage: 90
+  color: success
