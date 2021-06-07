@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Maria Victor
 description         : >-
-                      Nada se cria, tudo se inspira!
+                      Nada se cria, tudo se inspira!(Portifólio em construção)
                       
                 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -35,7 +35,7 @@ author:
 # instagram         : your_username
   kaggle            : mariavictor
   linkedin          : maria-victor/
-  medium            : maria.victor320
+  medium            : maria.victor
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id

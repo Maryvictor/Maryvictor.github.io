@@ -1,8 +1,8 @@
 ---
-title: Como funciona o LUIS?
-tags: [Microsoft, IA]
+title: O que é Análise de Sentimento?
+tags: [Text Analytics, IA]
 style: fill
 color: primary
-description: Using `git reflog` and `git reset` to save your code.
-external_url: https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74
+description: Entenda como funciona essa ferramenta.
+external_url: https://maria-victor.medium.com/o-que-%C3%A9-an%C3%A1lise-de-sentimento-377774112aaf
 ---
