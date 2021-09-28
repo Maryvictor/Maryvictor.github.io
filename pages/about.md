@@ -1,14 +1,20 @@
 ---
 layout: page
-title: About
-permalink: /about/
-weight: 3
+title: Sobre
+permalink: /sobre/
+weight: 1
 ---
 
-# **About Me**
+# **Sobre mim**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Olá, eu sou a **{{ site.author.name }}** :wave:,<br>
+Sou Desenvolvedora de Software com experiência em C#, .NET, ASP.NET, Bot Framework, LUIS, Cosmos DB, Text Analytics, Azure, Azure DevOps.
+
+Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo (FATEC-SP).
+
+Possuo graduação na área de engenharia de materiais onde atuei na área de Pesquisa e Educação.
+
+Sou apaixonada por ciência e tecnologia e defendo causas como educação, cultura e diversidade, sendo ativa em comunidades de Mulheres em TI, onde atuo como voluntária.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
