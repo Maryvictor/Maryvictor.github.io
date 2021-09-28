@@ -8,6 +8,7 @@ weight: 1
 # **Sobre mim**
 
 Olá, eu sou a **{{ site.author.name }}** :wave:,<br>
+
 Sou Desenvolvedora de Software com experiência em C#, .NET, ASP.NET, Bot Framework, LUIS, Cosmos DB, Text Analytics, Azure, Azure DevOps.
 
 Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo (FATEC-SP).
