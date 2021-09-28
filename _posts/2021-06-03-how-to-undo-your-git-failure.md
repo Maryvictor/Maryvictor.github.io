@@ -1,5 +1,5 @@
 ---
-title: O que é Análise de Sentimento?
+title: Entenda o que é Análise de Sentimento
 tags: [Text Analytics, IA]
 style: fill
 color: primary

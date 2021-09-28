@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Maria Victor
 description         : >-
-                      Nada se cria, tudo se inspira!(Portifólio em construção)
+                      Cientista de Dados (Portifólio em construção)
                       
                 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -25,9 +25,9 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Maria Victor
-  image             : https://avatars.githubusercontent.com/u/54823595?v=4
-  behance           : mariavictor1
-  dribbble          : maryvicctor
+  image             : https://media-exp1.licdn.com/dms/image/C4E03AQGIsR6mW-cTrw/profile-displayphoto-shrink_800_800/0/1576380264803?e=1638403200&v=beta&t=7WLdS8YNnDVqstXmNtRNxaTmVfovElRHVxkNPDDbVLk
+# behance           : mariavictor1
+# dribbble          : maryvicctor
   email             : maria.victor320@gmail.com
 # facebook          : your_username
   github            : Maryvictor
@@ -35,12 +35,12 @@ author:
 # instagram         : your_username
   kaggle            : mariavictor
   linkedin          : maria-victor/
-  medium            : maria.victor
+  medium            : 
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
-  twitch            : maryvicctor
+# twitch            : maryvicctor
 # twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
